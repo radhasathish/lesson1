@@ -1,2 +1,2 @@
 # lesson1
-Just to try
+This project talks about postman API automation using REST Assured
